@@ -15,12 +15,15 @@ list_of_files = [
     f"src/{package_name}/pipeline/__init__.py",
     f"src/{package_name}/entity/__init__.py",
     f"src/{package_name}/constant/__init__.py",
+    "test/__init__.py",
+    "test/unit/__init__.py",
+    "test/integration/__init__.py",
     "config/config.yaml",
     "dvc.yaml",
     "params.yaml",
     "init_setup.sh",
-    "requiements.txt"
-    "requiements_dev.txt"
+    "requiements.txt",
+    "requiements_dev.txt",
     "setup.py",
     "setup.cfg",
     "pyproject.toml",
